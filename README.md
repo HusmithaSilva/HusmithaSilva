@@ -86,7 +86,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux,jira,trello" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
   </a>
 </p>
 
