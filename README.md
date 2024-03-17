@@ -110,7 +110,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
--->
+
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -136,6 +136,8 @@
 
 [![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
 <br><br><br>
+
+-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
